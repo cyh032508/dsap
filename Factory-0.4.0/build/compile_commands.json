@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/GUI.dir/GUI.cpp.o -c /Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/GUI.cpp",
+  "file": "/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/GUI.cpp",
+  "output": "CMakeFiles/GUI.dir/GUI.cpp.o"
+},
+{
+  "directory": "/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/PDOGS.dir/PDOGS.cpp.o -c /Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/PDOGS.cpp",
+  "file": "/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/PDOGS.cpp",
+  "output": "CMakeFiles/PDOGS.dir/PDOGS.cpp.o"
+}
+]

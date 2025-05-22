@@ -1,0 +1,6 @@
+/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build/CMakeFiles/GUI.dir
+/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build/CMakeFiles/PDOGS.dir
+/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build/CMakeFiles/package.dir
+/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build/CMakeFiles/package_source.dir
+/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build/CMakeFiles/edit_cache.dir
+/Users/jiangyanhong/Desktop/DSAP-112/Factory-0.4.0/build/CMakeFiles/rebuild_cache.dir
